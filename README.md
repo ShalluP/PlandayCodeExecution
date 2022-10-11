@@ -1,2 +1,2 @@
 # PlandayCodeExecution
-This is plain script without parameterization and framework 
+This is plain script with parameterization and framework 
